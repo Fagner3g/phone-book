@@ -4,7 +4,7 @@ Sample React.js application for the Docker environment.
 
 ## Getting Started
 ![Screen Shopt](images/screenshot.png?raw=true "Screen Shot")
-The APP Phone book performs a CRUD, has frontend in react, backend in nodeJs and database with mongodb
+The Phone book performs a CRUD.
 
 ### Prerequisites
 
@@ -20,10 +20,10 @@ Docker version 18.03.1-ce, build 9ee9f40
 ### Installing
 
 ```
-git clone https://github.com/thejungwon/docker-reactjs.git
-cd docker-reactjs
-docker build -t docker-reactjs .
-docker run -p 80:80 docker-reactjs
+git clone https://github.com/Fagneregomes/phone_book.git
+cd phone_book
+docker build -t phone_book .
+docker run -p 80:80 phone_book
 ```
 
 ## Running the tests
@@ -49,7 +49,7 @@ TBD
 
 ## Authors
 
-* **Jungwon Seo** - *Initial work* - [thejungwon](https://github.com/thejungwon)
+* **Fagner Gomes** - *Initial work* - [fagnerGomes](https://github.com/Fagneregomes)
 
 
 ## License
