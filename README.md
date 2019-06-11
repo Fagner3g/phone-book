@@ -1,2 +1,2 @@
 # Phone book
- An application made in react, nodeJs, express, nginx and mongodb
+ An application developed in docker, reactJs, nodeJs, express, nginx and mongodb.
